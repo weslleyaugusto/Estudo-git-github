@@ -7,6 +7,6 @@ public class Main {
         System.out.println("Branch teste");
         System.out.println("Teste de merge conflitante");
         System.out.println("branch amazon");
-
+        System.out.println("Teste de merge");
     }
 }
