@@ -1,5 +1,10 @@
+import java.util.Scanner;
+
 public class Main {
     static void main() {
-        System.out.println("Teste");
+        int age;
+        Scanner scanner = new Scanner(System.in);
+
+
     }
 }
