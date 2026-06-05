@@ -5,6 +5,6 @@ public class Main {
         int age;
         Scanner scanner = new Scanner(System.in);
         System.out.println("Branch teste");
-
+        System.out.println("Teste de merge conflitante");
     }
 }
