@@ -8,5 +8,6 @@ public class Main {
         System.out.println("Teste de merge conflitante");
         System.out.println("teste de merge 2");
         System.out.println("teste de adição origin");
+        System.out.println("Teste pull request");
     }
 }
